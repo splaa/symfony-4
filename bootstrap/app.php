@@ -1,5 +1,8 @@
 <?php
+	
+	
+	use App\System\App;
+	
 	define('BASE_PATH', dirname(__DIR__));
 	
-	dd(BASE_PATH);
-	var_dump('Hello');
+	return App::getInstance();
