@@ -10,16 +10,16 @@
     }
   ],
   "require": {
-    "symfony/routing": "^4.2.4",
-    "symfony/config": "^4.2.4",
-    "symfony/templating": "^4.2.4",
-    "symfony/yaml": "^4.2.4",
-    "symfony/http-foundation": "^4.2.4",
-    "symfony/http-kernel": "^4.2.4"
+    "symfony/routing": "^4.2.7",
+    "symfony/config": "^4.2.7",
+    "symfony/templating": "^4.2.7",
+    "symfony/yaml": "^4.2.7",
+    "symfony/http-foundation": "^4.2.7",
+    "symfony/http-kernel": "^4.2.7"
   },
   "require-dev": {
     "roave/security-advisories": "dev-master",
-    "symfony/var-dumper": "^4.2.4"
+    "symfony/var-dumper": "^4.2.7"
   },
   "autoload": {
     "psr-4": {
